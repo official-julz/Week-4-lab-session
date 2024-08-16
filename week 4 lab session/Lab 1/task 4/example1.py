@@ -13,5 +13,5 @@ def add_and_multiply(a, b, c):
     return product_result
 
 
-result = add_and_multiply(2, 3, 4)
+result = add_and_multiply(3, 4, 5)
 print(result)
